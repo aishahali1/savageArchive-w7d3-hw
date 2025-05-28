@@ -37,7 +37,7 @@ function Character() {
     <img
       src={character.image}
       alt={character.name}
-      className="rounded-2xl object-cover w-100 md:w-60 h-100"
+      className="rounded-2xl object-cover w-100 md:w-100 h-100"
     />
 
     <div className="flex flex-col space-y-2 text-left p-2">
